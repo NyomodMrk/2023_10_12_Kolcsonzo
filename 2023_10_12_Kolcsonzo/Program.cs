@@ -44,6 +44,7 @@ namespace _2023_10_12_Kolcsonzo
                 Console.WriteLine($"{item.MegjelenitendoNev()}, kölcsönzési hossz: {item.MeddigKolcsonozheto()}");
             }
 
+
             Console.ReadKey();
         }
     }
